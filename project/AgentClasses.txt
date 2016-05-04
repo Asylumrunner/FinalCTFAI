@@ -1,0 +1,5 @@
+4
+ctf.agent.SimpleAgent
+ctf.agent.RandomAgent
+ctf.agent.BomberAgent
+ctf.agent.mxb132730Agent
